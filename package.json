@@ -1,0 +1,13 @@
+{
+  "name": "secondassignment",
+  "version": "y",
+  "main": "y",
+  "repository": "y",
+  "author": "y",
+  "license": "y",
+  "description": "y",
+  "private": false,
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
